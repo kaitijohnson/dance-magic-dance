@@ -1,5 +1,16 @@
-li a {
-  color: green;
+li {
+  color: white;
+  background: black;
+}
+
+h1 {
+  color: white;
+  background: black;
+}
+
+form {
+  color: white;
+  background: black;
 }
 
 body {
