@@ -1,18 +1,9 @@
-li {
-  color: white;
-  background: black;
-}
-
-h1 {
-  color: white;
-  background: black;
-}
-
-form {
+text {
   color: white;
   background: black;
 }
 
 body {
-  background: white url("images/background.jpg") no-repeat right bottom;
+  background: url("images/background.jpg") no-repeat right bottom;
+  background-color: black;
 }
