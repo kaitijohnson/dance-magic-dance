@@ -1,1 +1,1 @@
-# ufe-crud
+This objective of this project was to write a full stack app using an unfamiliar environment. Using Python and Django, this app has a poll page, an admin page to create, update, or delete content, and a SQL database. 
